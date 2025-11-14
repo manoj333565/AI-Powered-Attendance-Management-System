@@ -1,2 +1,4 @@
 # AI-Powered-Attendance-Management-System
-A smart attendance automation system built using AI-powered face recognition. This project captures student faces, trains a model using LBPH (Local Binary Patterns Histogram), and automatically marks attendance with high accuracy. It eliminates manual entry, improves reliability, and provides an efficient way to track student presence.
+### Overview
+
+The AI-Powered Attendance Management System is a smart and automated solution for tracking attendance in classrooms or workplaces using facial recognition technology. This system eliminates manual attendance, reduces errors, and improves efficiency. Built with Python and OpenCV, it provides a simple GUI for admins and seamless face recognition for users.
