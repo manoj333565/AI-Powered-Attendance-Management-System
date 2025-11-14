@@ -16,3 +16,19 @@ The AI-Powered Attendance Management System is a smart and automated solution fo
 5.Automated Reports: Generate attendance reports for daily, weekly, or monthly tracking.
 
 6.Supports Multiple Users: Recognizes multiple faces in a single session.
+
+### Technologies Used
+
+i.Python 3.12
+
+ii.OpenCV – Computer vision library for face detection and recognition.
+
+iii.Tkinter – GUI interface for user interactions.
+
+iv.Pillow (PIL) – Image processing library.
+
+v.NumPy – Numerical computations.
+
+vi.CSV – Attendance storage (can be replaced with SQL databases for scalability).
+
+vii.Git & GitHub – Version control
