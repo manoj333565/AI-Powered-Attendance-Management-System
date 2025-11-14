@@ -32,3 +32,52 @@ v.NumPy – Numerical computations.
 vi.CSV – Attendance storage (can be replaced with SQL databases for scalability).
 
 vii.Git & GitHub – Version control
+
+### Project Structure
+
+AI-Powered-Attendance-Management-System/
+│
+├─ college_images/               # Sample images for testing
+│    └─ BestFacialRecognition.JPG
+├─ haarcascade/                  # Haar cascade files for face detection
+│    └─ haarcascade_frontalface_default.xml
+├─ main.py                       # Core program handling face recognition
+├─ login.py                      # GUI login system
+├─ Attendance.csv                # Attendance log file
+├─ README.md                     # Project documentation
+└─ requirements.txt              # Project dependencies
+
+### How to Use
+
+i.Launch the system by running login.py.
+
+2.Log in as an admin (credentials can be predefined in the system).
+
+3.Add new student images to the college_images folder.
+
+4.Start the face recognition process from the GUI.
+
+5.Attendance is automatically marked in Attendance.csv.
+
+6.Generate reports as needed.
+
+### Contributing
+
+Contributions are welcome! You can:
+
+Improve face recognition accuracy
+
+Add database support (MySQL/PostgreSQL)
+
+Enhance GUI design
+
+Implement email notifications for attendance
+
+### Contact
+
+For questions, suggestions, or collaboration, reach out to:
+
+Manoj Kumar Mandal
+Email: manojkumarmandal1111@gmail.com
+contact no:- 8404970494
+GitHub: https://github.com/manoj333565
